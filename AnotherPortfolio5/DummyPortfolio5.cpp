@@ -6,5 +6,5 @@ using namespace std;
 void main()
 {
 	cout << "Dummy added" << endl;
-	cout << "Dummy wrote something new" << endl;
+	cout << "Added new line to Dummy wrote something new" << endl;
 }
