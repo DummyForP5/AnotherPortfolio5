@@ -6,4 +6,5 @@ using namespace std;
 void main()
 {
 	cout << "Dummy added" << endl;
+	cout << "Added new line to Dummy" << endl;
 }
