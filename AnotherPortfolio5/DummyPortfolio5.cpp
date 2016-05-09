@@ -7,5 +7,5 @@ void main()
 {
 	cout << "Dummy added" << endl;
 	cout << "Added new line to Dummy wrote something new" << endl;
-	cout << "Added Version 2" << endl;
+	cout << "Version 1" << endl;
 }
